@@ -1,0 +1,5 @@
+/home/fleig/Documentos/projetoCsharp/obj/Debug/net5.0/projetoCsharp.csproj.AssemblyReference.cache
+/home/fleig/Documentos/projetoCsharp/obj/Debug/net5.0/projetoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/fleig/Documentos/projetoCsharp/obj/Debug/net5.0/projetoCsharp.AssemblyInfoInputs.cache
+/home/fleig/Documentos/projetoCsharp/obj/Debug/net5.0/projetoCsharp.AssemblyInfo.cs
+/home/fleig/Documentos/projetoCsharp/obj/Debug/net5.0/projetoCsharp.csproj.CoreCompileInputs.cache
